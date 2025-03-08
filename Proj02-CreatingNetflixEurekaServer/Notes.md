@@ -1,4 +1,4 @@
-![Create Netflix Eureka R&D Server](Creating the Netflix Eureka R&D Server.png)
+![Create Netflix Eureka R&D Server](CreatingtheNetflixEurekaR&DServer.png)
 
 ## How to create multiple instances of one microservice?
 
@@ -29,6 +29,3 @@
    
 3. **Feign Client Component** (Abstract Client - Best)
    - Supports load balancing.
-
-
-![Creating the Netflix Eureka R&D Server](Creating the Netflix Eureka R&D Server.png)
