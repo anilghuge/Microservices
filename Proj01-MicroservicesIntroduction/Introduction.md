@@ -1,6 +1,7 @@
 # Spring Cloud  *(Working with Microservices)* 
 
 In Spring Boot, the Microservice architecture is implemented with the support of Spring Cloud Module and multiple other facilities.  
+![Introduction On Microservices](MoreonNeedofMicroServices_Part1.png)
 
 - **Why prefer Spring Boot over Spring Framework?**  
   - We prefer Spring Boot to implement Microservices as it simplifies configuration and offers Spring Cloud support. 
@@ -21,6 +22,8 @@ In Spring Boot, the Microservice architecture is implemented with the support of
   - NareshIT.com  
   - Flipkart.com  
   - Banking Applications  
+
+  ![Microservice Architecture](OverviewoftheMicroServicesArchitecture_Part2.png)
 
 #### Build Process  
 

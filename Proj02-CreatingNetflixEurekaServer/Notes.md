@@ -29,3 +29,6 @@
    
 3. **Feign Client Component** (Abstract Client - Best)
    - Supports load balancing.
+
+
+![Creating the Netflix Eureka R&D Server](Creating the Netflix Eureka R&D Server.png)
