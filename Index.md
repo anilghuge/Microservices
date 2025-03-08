@@ -5,16 +5,12 @@
   - To see communication between two microservices, both microservices must be published in the Eureka Server.
   - The Consumer/Client/Child microservice should find and get the details of the provider/producer/server microservice by submitting its service ID. For this, the consumer microservice must use one special component called "Client Component" or "Client Type Component."
 
-	<details>
-  <summary><strong>Session 02: How to create multiple instances of one microservice?</strong></summary>
+  <h3><strong>Session 02: How to create multiple instances of one microservice?</strong></h3>
   
   - Add service id + random value as instance id in `application.properties` and run the same microservice project with different port numbers.
   
-  ```properties
-  eureka.instance.instance-id=${spring.application.name}:${random.value}
-  ```
+  - eureka.instance.instance-id=${spring.application.name}:${random.value}
   
- </details>
 
   <details>
     <summary><strong>The work of "Client Component" in the consumer microservice:</strong></summary>
