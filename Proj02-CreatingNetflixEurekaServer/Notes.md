@@ -30,4 +30,4 @@
 3. **Feign Client Component** (Abstract Client - Best)
    - Supports load balancing.
 
-![Publishing The MicroService To EurekaServer](PublishingTheMicroServiceToEurekaServer.png)
+![Publishing The MicroService To EurekaServer](Proj02-CreatingNetflixEurekaServer/PublishingTheMicroServiceToEurekaServer.png)
