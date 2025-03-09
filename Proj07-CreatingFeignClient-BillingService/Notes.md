@@ -70,7 +70,7 @@ Here’s a comparison of the three:
 | **Usage**              | Declarative REST client using interfaces               | Discover and register services at runtime        | Automatically balances load between service instances |
 | **Example**            | `@FeignClient(name = "my-service")`                      | `DiscoveryClient` to discover services           | `@LoadBalanced` RestTemplate for load balancing   |
 | **Main Libraries**     | Feign, Spring Cloud Feign                               | Spring Cloud Discovery Client (e.g., Eureka)      | Spring Cloud Ribbon, Netflix Ribbon              |
-
+| **Dependecy**| Feign Client and Discovery Client |Discovery Client     |Discovery Client
 ### Key Differences:
 
 - **Feign Client**: A declarative HTTP client that simplifies service communication by defining Java interfaces that map to REST API calls.
