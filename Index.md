@@ -6,6 +6,11 @@
 			- Notes Available in Proj05
 ### Session 05 : Feign Client
             - Notes Available in Proj07
+### Session 06 : Config Server With Git
+	 		- Notes Available in Proj08
+
+### Session 07 :Config Server With Native
+	 		- Notes Available in Proj12
 
 ## Pending Topics :
 - 1. Learn Service Registry Eureka,Consul,Zookeeper
