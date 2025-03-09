@@ -4,6 +4,8 @@
 			-	Notes Available in Proj03
 ### Session 04 : LoadBalancer Client
 			- Notes Available in Proj05
+### Session 05 : Feign Client
+            - Notes Available in Proj07
 
 ## Pending Topics :
 - 1. Learn Service Registry Eureka,Consul,Zookeeper
