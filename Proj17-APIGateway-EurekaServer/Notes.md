@@ -1,4 +1,4 @@
-!(Cloud API Gateway)[CloudAPIGateway.png]
+!(Cloud API Gateway)[CloudAPIGateWay.png]
 
 **Spring Cloud Gateway** is a framework designed to provide a simple, yet powerful way to route and filter requests in a microservices architecture. It is part of the Spring Cloud ecosystem, which is used for building distributed systems in a cloud-native environment.
 
