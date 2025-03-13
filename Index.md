@@ -16,6 +16,8 @@
 			- 1.Using Properties Configuration(take the support of application.properties or application.yml for API Gateway Configuration)
 			- 2.Using Java Configuration(take the support of @Bean Methods in @Configuration class for this purpose)
 			- Notes Available in Proj17
+### Session 09 : Circuit Breaker Using Resilence4j
+			- Notes Available in Proj21 
 
 ## Pending Topics :
 - 1.Learn Service Registry Eureka,Consul,Zookeeper
