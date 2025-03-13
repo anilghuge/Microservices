@@ -18,6 +18,9 @@
 			- Notes Available in Proj17
 ### Session 09 : Circuit Breaker Using Resilence4j
 			- Notes Available in Proj21 
+### Session 10 : Redis Cache
+			- Notes Available in Proj23
+           
 
 ## Pending Topics :
 - 1.Learn Service Registry Eureka,Consul,Zookeeper
